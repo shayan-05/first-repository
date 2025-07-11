@@ -1,3 +1,3 @@
 # first-repository
 This is my first git repository
-Author-Mohd shayan
+Author-Mohd Shayan(M.S.)
